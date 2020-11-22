@@ -2,4 +2,4 @@
 
 An HTML & SCSS website built for a fictitious news agency. Fully mobile responsive.
 
-Click <a href="https://github.com/AndreiRacasan/alternews">**here**</a> for a live demo.
+Click <a href="https://andreiracasan.github.io/alternews/">**here**</a> for a live demo.
