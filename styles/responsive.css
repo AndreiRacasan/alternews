@@ -59,7 +59,7 @@
 
 @media (max-width: 500px) {
   #main-nav {
-    height: 100px;
+    height: 90px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -69,6 +69,7 @@
   #main-nav .container {
     display: flex;
     flex-direction: column;
+    z-index: 3;
   }
 
   #main-nav .container img {
