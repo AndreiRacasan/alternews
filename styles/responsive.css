@@ -59,9 +59,8 @@
 
 @media (max-width: 500px) {
   #main-nav {
-    height: 80px;
-    padding-top: 3px;
-    padding-bottom: 10px;
+    height: 85px;
+    padding-bottom: 12px;
     display: flex;
     align-items: center;
     justify-content: center;
